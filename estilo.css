@@ -18,3 +18,8 @@ tr:first-child{
   background-color: black;
   color:rgb(255, 255, 255)
 }
+
+tr td{
+  padding: 50px;
+  cursor: pointer;
+}
